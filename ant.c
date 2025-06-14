@@ -67,7 +67,7 @@ int main() {
     int screenWidth = COLS * sq;
     int screenHeight = ROWS * sq;
     init();
-    InitWindow(screenWidth, screenHeight, "langton's art");
+    InitWindow(screenWidth, screenHeight, "langton's ant");
 
     while (!WindowShouldClose()) {
         // delay(10);

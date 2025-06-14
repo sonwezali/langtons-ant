@@ -5,7 +5,10 @@
 This project is an implementation of Langton's Ant using the Raylib graphics library. Langton's Ant is a two-dimensional universal Turing machine with a very simple set of rules but complex emergent behavior. The ant moves on a grid of black and white cells, turning and flipping the color of the cell according to simple rules.
 
 
-https://github.com/user-attachments/assets/ba00e805-6925-4af7-9097-c03798feec22
+
+https://github.com/user-attachments/assets/85f8287a-2f70-4d0a-99f0-bee22e2ebc6a
+
+
 
 
 ## Features
